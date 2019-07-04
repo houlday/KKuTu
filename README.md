@@ -14,7 +14,7 @@
 ## English
 > Rule the words! KKuTu Online
 
-**This is KKuTu made by the original author, JJoriping. However, the free server (private server) made by houlday**
+**This is KKuTu made by the original author, JJoriping. However, the free server is Simple construction by houlday **
 
 **KKuTu** is a casual game containing various word games that let players use their vocabulary.
 Players can play alone with a robot, or play with other players who have entered to a server.
@@ -63,7 +63,7 @@ This repository provides you what you have to prepare to play **KKuTu**.
 
 ## 한국어
 
-**이 끄투는 쪼리핑님이 만드셨지만 프리서버(사설서버)는 호울데이가 만든 것임을 알립니다.**
+**이 끄투는 쪼리핑님이 만드셨지만 프리서버는 호울데이가 단순 구축한걸 알립니다.**
 
 > 글자로 놀자! 끄투 온라인
 
